@@ -221,7 +221,7 @@ def init_model(model, device):
 ### Results
  ![image](https://user-images.githubusercontent.com/91966701/176738735-e5c0dce7-e06c-4606-9b69-489566d6819c.png)
 
-
+### References
 Original paper on Image-to-Image Translation (using U-Net generator & PatchGAN discriminator)
 
 by Berkeley AI Research (BAIR) Laboratory, UC Berkeley
@@ -234,3 +234,4 @@ https://jonathan-hui.medium.com/gan-whats-generative-adversarial-networks-and-it
 
 https://jonathan-hui.medium.com/gan-cgan-infogan-using-labels-to-improve-gan-8ba4de5f9c3d
 
+* This project is done under the guidance of Vision And Language Group @IIT Roorkee
