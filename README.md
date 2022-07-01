@@ -1,5 +1,7 @@
 # Image-Colorization-Using-CGAN-s
 
+* This project is done under the guidance of Vision And Language Group @IIT Roorkee by myself(Manohar-Penta) and RS Suriya.
+
 ## Problem Statement
 The task of colourizing black and white photographs necessitates a lot of human input and hardcoding. The goal is to create an end-to-end deep learning pipeline that can automate the task of image colorization by taking a black and white image as input and producing a colourized image as output.
 ## Motivation
@@ -233,5 +235,3 @@ For GANs (Introduction, GANs, C-GANs, Algorithm, etc.)
 https://jonathan-hui.medium.com/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09
 
 https://jonathan-hui.medium.com/gan-cgan-infogan-using-labels-to-improve-gan-8ba4de5f9c3d
-
-* This project is done under the guidance of Vision And Language Group @IIT Roorkee
